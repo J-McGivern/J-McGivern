@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @J-McGivern
+- 👋 Hi, I’m @J-McGivern, 
 - 👀 I’m interested in learning to code to make projects to build my CV.
 - 🌱 I’m currently learning JaveScript on Grasshopper on my mobile phone.
 - 💞️ I’m looking to collaborate on any projects that might help on my journey.
